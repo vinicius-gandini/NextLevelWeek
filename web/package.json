@@ -13,7 +13,7 @@
     "@types/react-leaflet": "^2.5.1",
     "@types/react-router-dom": "^5.1.5",
     "axios": "^0.19.2",
-    "elliptic": "6.5.3",
+    "elliptic": "6.5.4",
     "leaflet": "^1.6.0",
     "lodash": "4.17.19",
     "react": "^16.13.1",
